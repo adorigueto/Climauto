@@ -20,16 +20,20 @@ month <- factor(climauto$mes,
     levels = c("jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"),
     labels = c("jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"),
     ordered = TRUE)
+day <- factor(climauto$dia)
 
 # Snoop data
 summary(climauto)
 hist(quantity)
-week_day["dom"]
 plot(week_day, quantity)
 plot(month, quantity)
+plot(day, quantity)
 
-model_test <- aov(quantity ~ week_day*month)
-
+model_test <- aov(quantity ~ week_day+month)
 summary(model_test)
-ggplot(climauto, aes(week_day, quantity)) +
-    geom_line()
+qqnorm(residuals(model_test))
+qqline(residuals(model_test))
+shapiro.test(residuals(model_test))
+
+ggplot(climauto, aes(day, quantity)) +
+    geom_point()

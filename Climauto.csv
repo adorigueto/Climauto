@@ -1,0 +1,366 @@
+dia,mes,dia_mes,dia_da_semana,quantidade,modelo
+1,jan,1,sab,0,na
+2,jan,2,dom,0,na
+3,jan,3,seg,0,na
+4,jan,4,ter,0,na
+5,jan,5,qua,0,na
+6,jan,6,qui,0,na
+7,jan,7,sex,0,na
+8,jan,8,sab,0,na
+9,jan,9,dom,0,na
+10,jan,10,seg,0,na
+11,jan,11,ter,0,na
+12,jan,12,qua,0,na
+13,jan,13,qui,0,na
+14,jan,14,sex,0,na
+15,jan,15,sab,0,na
+16,jan,16,dom,0,na
+17,jan,17,seg,4,"gol, astra, strada, polo"
+18,jan,18,ter,5,"polo, fiesta, palio"
+19,jan,19,qua,4,"hb20, tracker, etios, fox"
+20,jan,20,qui,3,"palio, mobi, csc"
+21,jan,21,sex,1,ranger
+22,jan,22,sab,0,na
+23,jan,23,dom,0,na
+24,jan,24,seg,0,na
+25,jan,25,ter,4,"fox, fox, palio"
+26,jan,26,qua,3,"idea, golf, van"
+27,jan,27,qui,3,"voyage, fox, mb3030"
+28,jan,28,sex,4,"picasso, crv"
+29,jan,29,sab,1,hb20
+30,jan,30,dom,0,na
+31,jan,31,seg,3,"ecosport, palio, van"
+32,fev,1,ter,5,"palio, van, prisma, zafira, golf"
+33,fev,2,qua,2,cargo
+34,fev,3,qui,3,"hrv, siena"
+35,fev,4,sex,1,newholland
+36,fev,5,sab,0,na
+37,fev,6,dom,0,na
+38,fev,7,seg,0,na
+39,fev,8,ter,1,van
+40,fev,9,qua,0,na
+41,fev,10,qui,2,"fox, 206"
+42,fev,11,sex,0,na
+43,fev,12,sab,0,na
+44,fev,13,dom,0,na
+45,fev,14,seg,2,"ranger, argo"
+46,fev,15,ter,1,argo
+47,fev,16,qua,1,fiesta
+48,fev,17,qui,2,"prisma, van"
+49,fev,18,sex,3,"montana, master"
+50,fev,19,sab,1,fit
+51,fev,20,dom,0,na
+52,fev,21,seg,2,"frontier, caminhao"
+53,fev,22,ter,2,"crv, tracker"
+54,fev,23,qua,1,fox
+55,fev,24,qui,2,gol
+56,fev,25,sex,2,"zafira, aircross"
+57,fev,26,sab,0,na
+58,fev,27,dom,0,na
+59,fev,28,seg,0,na
+60,mar,1,ter,0,na
+61,mar,2,qua,4,"etios, astra, strada, ecosport"
+62,mar,3,qui,5,"gol, polo, cruze, etios, vectra"
+63,mar,4,sex,3,"polo, renegade"
+64,mar,5,sab,0,na
+65,mar,6,dom,0,na
+66,mar,7,seg,3,"van, cobalt, strada"
+67,mar,8,ter,2,polo
+68,mar,9,qua,1,strada
+69,mar,10,qui,2,strada
+70,mar,11,sex,5,"hb20, agile, fox, fit, palio"
+71,mar,12,sab,0,na
+72,mar,13,dom,0,na
+73,mar,14,seg,2,"spacefox, montana"
+74,mar,15,ter,0,na
+75,mar,16,qua,2,polo
+76,mar,17,qui,3,"golf, gol, elx"
+77,mar,18,sex,2,"classic, saveiro"
+78,mar,19,sab,0,na
+79,mar,20,dom,0,na
+80,mar,21,seg,3,"palio, golf, caminhao"
+81,mar,22,ter,5,"hb20, van, gol, palio, corolla"
+82,mar,23,qua,0,na
+83,mar,24,qui,1,fit
+84,mar,25,sex,1,golf
+85,mar,26,sab,0,0
+86,mar,27,dom,0,0
+87,mar,28,seg,3,"onix, montana, fusion"
+88,mar,29,ter,4,"van, corolla, landrover"
+89,mar,30,qua,3,"gol, palio, ka"
+90,mar,31,qui,1,van
+91,abr,1,sex,2,"voyage, van"
+92,abr,2,sab,0,na
+93,abr,3,dom,0,na
+94,abr,4,seg,1,na
+95,abr,5,ter,6,"montana, ecosport, palio_weekend, gol, azera, cargo"
+96,abr,6,qua,1,marea
+97,abr,7,qui,0,na
+98,abr,8,sex,2,"fox, polo"
+99,abr,9,sab,1,208
+100,abr,10,dom,0,na
+101,abr,11,seg,3,"gol, duster, gol"
+102,abr,12,ter,2,"palio, strada"
+103,abr,13,qua,0,na
+104,abr,14,qui,1,fit
+105,abr,15,sex,0,na
+106,abr,16,sab,0,na
+107,abr,17,dom,0,na
+108,abr,18,seg,2,"ecosport, agile"
+109,abr,19,ter,1,cobalt
+110,abr,20,qua,3,"fiesta, c3"
+111,abr,21,qui,0,na
+112,abr,22,sex,2,"meriva, palio"
+113,abr,23,sab,0,na
+114,abr,24,dom,0,na
+115,abr,25,seg,0,na
+116,abr,26,ter,1,saveiro
+117,abr,27,qua,2,palio
+118,abr,28,qui,3,"gol, corsa"
+119,abr,29,sex,1,na
+120,abr,30,sab,0,na
+121,mai,1,dom,0,na
+122,mai,2,seg,0,na
+123,mai,3,ter,1,na
+124,mai,4,qua,0,na
+125,mai,5,qui,1,na
+126,mai,6,sex,4,"fiesta, polo, renegade"
+127,mai,7,sab,0,na
+128,mai,8,dom,0,na
+129,mai,9,seg,6,"agile, hilux, polo, golf, gol, tracker"
+130,mai,10,ter,1,208
+131,mai,11,qua,3,"gol, tracker, polo"
+132,mai,12,qui,4,"palio_adventure, uno, palio_weekend"
+133,mai,13,sex,2,"palio, astra"
+134,mai,14,sab,0,na
+135,mai,15,dom,0,na
+136,mai,16,seg,1,corsa
+137,mai,17,ter,0,na
+138,mai,18,qua,1,uno
+139,mai,19,qui,0,na
+140,mai,20,sex,6,"uno, prisma, sandeiro, cruze"
+141,mai,21,sab,0,na
+142,mai,22,dom,0,na
+143,mai,23,seg,0,na
+144,mai,24,ter,0,na
+145,mai,25,qua,0,na
+146,mai,26,qui,0,na
+147,mai,27,sex,1,focus
+148,mai,28,sab,2,"strada, fox"
+149,mai,29,dom,0,na
+150,mai,30,seg,2,na
+151,mai,31,ter,3,"oroc, corolla"
+152,jun,1,qua,3,"polo, tracker, montana"
+153,jun,2,qui,3,"strada, fiesta"
+154,jun,3,sex,1,santa_fe
+155,jun,4,sab,0,na
+156,jun,5,dom,0,na
+157,jun,6,seg,3,"corolla, voyage, astra"
+158,jun,7,ter,2,fit
+159,jun,8,qua,2,amarok
+160,jun,9,qui,4,"gol, strada, prisma"
+161,jun,10,sex,4,"fiesta, corolla, tiguan"
+162,jun,11,sab,1,fox
+163,jun,12,dom,0,na
+164,jun,13,seg,2,"agile, uno"
+165,jun,14,ter,0,na
+166,jun,15,qua,1,fiesta
+167,jun,16,qui,0,na
+168,jun,17,sex,5,"fox, polo"
+169,jun,18,sab,0,na
+170,jun,19,dom,0,na
+171,jun,20,seg,0,na
+172,jun,21,ter,0,na
+173,jun,22,qua,0,na
+174,jun,23,qui,1,golf
+175,jun,24,sex,0,na
+176,jun,25,sab,0,na
+177,jun,26,dom,0,na
+178,jun,27,seg,0,na
+179,jun,28,ter,0,na
+180,jun,29,qua,1,"tracker, gol"
+181,jun,30,qui,0,na
+182,jul,1,sex,1,vectra
+183,jul,2,sab,,
+184,jul,3,dom,,
+185,jul,4,seg,,
+186,jul,5,ter,,
+187,jul,6,qua,,
+188,jul,7,qui,,
+189,jul,8,sex,,
+190,jul,9,sab,,
+191,jul,10,dom,,
+192,jul,11,seg,,
+193,jul,12,ter,,
+194,jul,13,qua,,
+195,jul,14,qui,,
+196,jul,15,sex,,
+197,jul,16,sab,,
+198,jul,17,dom,,
+199,jul,18,seg,,
+200,jul,19,ter,,
+201,jul,20,qua,,
+202,jul,21,qui,,
+203,jul,22,sex,,
+204,jul,23,sab,,
+205,jul,24,dom,,
+206,jul,25,seg,,
+207,jul,26,ter,,
+208,jul,27,qua,,
+209,jul,28,qui,,
+210,jul,29,sex,,
+211,jul,30,sab,,
+212,jul,31,dom,,
+213,ago,1,seg,,
+214,ago,2,ter,,
+215,ago,3,qua,,
+216,ago,4,qui,,
+217,ago,5,sex,,
+218,ago,6,sab,,
+219,ago,7,dom,,
+220,ago,8,seg,,
+221,ago,9,ter,,
+222,ago,10,qua,,
+223,ago,11,qui,,
+224,ago,12,sex,,
+225,ago,13,sab,,
+226,ago,14,dom,,
+227,ago,15,seg,,
+228,ago,16,ter,,
+229,ago,17,qua,,
+230,ago,18,qui,,
+231,ago,19,sex,,
+232,ago,20,sab,,
+233,ago,21,dom,,
+234,ago,22,seg,,
+235,ago,23,ter,,
+236,ago,24,qua,,
+237,ago,25,qui,,
+238,ago,26,sex,,
+239,ago,27,sab,,
+240,ago,28,dom,,
+241,ago,29,seg,,
+242,ago,30,ter,,
+243,ago,31,qua,,
+244,set,1,qui,,
+245,set,2,sex,,
+246,set,3,sab,,
+247,set,4,dom,,
+248,set,5,seg,,
+249,set,6,ter,,
+250,set,7,qua,,
+251,set,8,qui,,
+252,set,9,sex,,
+253,set,10,sab,,
+254,set,11,dom,,
+255,set,12,seg,,
+256,set,13,ter,,
+257,set,14,qua,,
+258,set,15,qui,,
+259,set,16,sex,,
+260,set,17,sab,,
+261,set,18,dom,,
+262,set,19,seg,,
+263,set,20,ter,,
+264,set,21,qua,,
+265,set,22,qui,,
+266,set,23,sex,,
+267,set,24,sab,,
+268,set,25,dom,,
+269,set,26,seg,,
+270,set,27,ter,,
+271,set,28,qua,,
+272,set,29,qui,,
+273,set,30,sex,,
+274,out,1,sab,,
+275,out,2,dom,,
+276,out,3,seg,,
+277,out,4,ter,,
+278,out,5,qua,,
+279,out,6,qui,,
+280,out,7,sex,,
+281,out,8,sab,,
+282,out,9,dom,,
+283,out,10,seg,,
+284,out,11,ter,,
+285,out,12,qua,,
+286,out,13,qui,,
+287,out,14,sex,,
+288,out,15,sab,,
+289,out,16,dom,,
+290,out,17,seg,,
+291,out,18,ter,,
+292,out,19,qua,,
+293,out,20,qui,,
+294,out,21,sex,,
+295,out,22,sab,,
+296,out,23,dom,,
+297,out,24,seg,,
+298,out,25,ter,,
+299,out,26,qua,,
+300,out,27,qui,,
+301,out,28,sex,,
+302,out,29,sab,,
+303,out,30,dom,,
+304,out,31,seg,,
+305,nov,1,ter,,
+306,nov,2,qua,,
+307,nov,3,qui,,
+308,nov,4,sex,,
+309,nov,5,sab,,
+310,nov,6,dom,,
+311,nov,7,seg,,
+312,nov,8,ter,,
+313,nov,9,qua,,
+314,nov,10,qui,,
+315,nov,11,sex,,
+316,nov,12,sab,,
+317,nov,13,dom,,
+318,nov,14,seg,,
+319,nov,15,ter,,
+320,nov,16,qua,,
+321,nov,17,qui,,
+322,nov,18,sex,,
+323,nov,19,sab,,
+324,nov,20,dom,,
+325,nov,21,seg,,
+326,nov,22,ter,,
+327,nov,23,qua,,
+328,nov,24,qui,,
+329,nov,25,sex,,
+330,nov,26,sab,,
+331,nov,27,dom,,
+332,nov,28,seg,,
+333,nov,29,ter,,
+334,nov,30,qua,,
+335,dez,1,qui,,
+336,dez,2,sex,,
+337,dez,3,sab,,
+338,dez,4,dom,,
+339,dez,5,seg,,
+340,dez,6,ter,,
+341,dez,7,qua,,
+342,dez,8,qui,,
+343,dez,9,sex,,
+344,dez,10,sab,,
+345,dez,11,dom,,
+346,dez,12,seg,,
+347,dez,13,ter,,
+348,dez,14,qua,,
+349,dez,15,qui,,
+350,dez,16,sex,,
+351,dez,17,sab,,
+352,dez,18,dom,,
+353,dez,19,seg,,
+354,dez,20,ter,,
+355,dez,21,qua,,
+356,dez,22,qui,,
+357,dez,23,sex,,
+358,dez,24,sab,,
+359,dez,25,dom,,
+360,dez,26,seg,,
+361,dez,27,ter,,
+362,dez,28,qua,,
+363,dez,29,qui,,
+364,dez,30,sex,,
+365,dez,31,sab,,
